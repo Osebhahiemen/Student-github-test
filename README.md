@@ -1,1 +1,3 @@
-# Student-github-test
+My name is Agbale Ose Emmanuel and a Masters student studying Modern software development at Southern Federal University, Rostov. 
+I'm enthusiastic about technology that is why I pursured studying at one of the best schools in Russia which so far has been a pleasure with top notch lecturers and lectures and one of the best environments to study within.
+The curriculum has also being favourable as it inculcates all aspects of technology into this course so as to expand your memory and also would help you to settle on what aspect of Software developmen you want to base on. All these put together makes Southern federal university a good choice for me
