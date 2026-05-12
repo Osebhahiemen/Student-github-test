@@ -3,3 +3,4 @@ I'm enthusiastic about technology that is why I pursured studying at one of the 
 The curriculum has also being favourable as it inculcates all aspects of technology into this course so as to expand your memory and also would help you to settle on what aspect of Software developmen you want to base on. All these put together makes Southern federal university a good choice for me
 this is the link to my bio.txt file
 Document/bio.txt
+I'm just here to fix a mistake
